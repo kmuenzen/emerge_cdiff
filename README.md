@@ -1,1 +1,1 @@
-# Sample script repository for eMERGE C. diff. GWAS 
+# Sample script repository for eMERGE *C. diff.* GWAS 
